@@ -11,12 +11,36 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-image: url(./Fireworks-Backgrounds-26-1920-x-1080.jpg);
 }
 
 .title {
   font-size: 10vh;
+  color: rgb(250, 253, 61);
+}
+
+.call {
+  color: rgba(94, 82, 255, 0.979);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(./tetbg.jpg);
+  padding: 30%;
 }
 
 .y {
   font-size: 5vh;
+  color: rgb(250, 253, 61);
+}
+
+.ps {
+  padding: 20%;
+  font-family: "Licorice", cursive;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(241, 204, 250);
 }
